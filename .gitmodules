@@ -1,0 +1,3 @@
+[submodule "server/server/DrogonAuth"]
+	path = server/server/DrogonAuth
+	url = https://github.com/capybaracplusplus/DrogonAuth
